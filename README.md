@@ -29,6 +29,7 @@ rotating/translating them, and then projecting them onto a flat surface.
 
 - Flat Earth Assumption: IPM assumes the road is perfectly flat. Points from the camera's image plane are projected onto this 2D ground plane (typically the z = 0 axis)
 
+Here we didn't use actual camera or camera already calibrated offline so i wasn't able to add intrinsic to my homography so it's more prespective transformation than IPM but it's more about the concept
 
 
 ## Codes Functions
